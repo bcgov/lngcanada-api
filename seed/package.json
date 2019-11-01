@@ -15,7 +15,7 @@
     "fast-csv": "^2.4.1",
     "lodash": "^4.17.10",
     "moment": "^2.24.0",
-    "mongoose": "^4.13.6",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0"
   },
   "scripts": {
