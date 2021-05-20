@@ -1,4 +1,4 @@
-# bcgov/nrts-prc-api
+# bcgov/nrts-prc-api [![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)](<Redirect-URL>)
 
 Minimal API for the ACRFD (formerly: PRC) application.
 
